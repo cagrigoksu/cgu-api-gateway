@@ -1,0 +1,6 @@
+@cgu_api_gateway_HostAddress = http://localhost:5273
+
+GET {{cgu_api_gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

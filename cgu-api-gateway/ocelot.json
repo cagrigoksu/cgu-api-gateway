@@ -1,0 +1,20 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "cgu-api-gateway.azurewebsites.net",
+    "RequestIdKey": "OcRequestId"
+  },
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/User/{everything}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "cgu-usermicroservice.azurewebsites.net",
+          "Port": 443
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/User/{everything}",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+    }
+  ]
+}

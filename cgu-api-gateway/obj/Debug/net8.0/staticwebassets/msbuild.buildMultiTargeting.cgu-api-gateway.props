@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cgu-api-gateway.props" />
+</Project>

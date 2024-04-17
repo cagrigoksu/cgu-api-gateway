@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hpWEvXwyaVgZ1cLB0f5fsTzfQXnBcuuUMJ85tq6TA04=",
+  "Source": "cgu-api-gateway",
+  "BasePath": "_content/cgu-api-gateway",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
