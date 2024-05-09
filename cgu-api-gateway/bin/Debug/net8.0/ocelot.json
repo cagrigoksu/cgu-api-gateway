@@ -1,6 +1,7 @@
 {
   "GlobalConfiguration": {
-    "BaseUrl": "cgu-api-gateway.azurewebsites.net",
+    //"BaseUrl": "cgu-api-gateway.azurewebsites.net",
+    "BaseUrl": "localhost:7219",
     "RequestIdKey": "OcRequestId"
   },
   "Routes": [
@@ -11,6 +12,8 @@
         {
           "Host": "localhost",
           "Port": 7132
+          /*Host": "cgu-usermicroservice.azurewebsites.net",
+          "Port": 443*/
         }
       ],
       "UpstreamPathTemplate": "/gateway/User/{everything}",
