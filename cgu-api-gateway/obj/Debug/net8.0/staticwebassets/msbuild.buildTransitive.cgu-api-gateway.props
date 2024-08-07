@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\cgu-api-gateway.props" />
-</Project>
