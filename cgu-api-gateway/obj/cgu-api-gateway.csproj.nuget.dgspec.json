@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cgust\\Desktop\\Projects\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj": {}
+    "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cgust\\Desktop\\Projects\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj": {
+    "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj",
+        "projectUniqueName": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj",
         "projectName": "cgu-api-gateway",
-        "projectPath": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj",
+        "projectPath": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-api-gateway\\cgu-api-gateway\\cgu-api-gateway.csproj",
         "packagesPath": "C:\\Users\\cgust\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-api-gateway\\cgu-api-gateway\\obj\\",
+        "outputPath": "C:\\Users\\cgust\\Desktop\\Projects\\cgu-jobboard-angular\\cgu-api-gateway\\cgu-api-gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cgust\\AppData\\Roaming\\NuGet\\NuGet.Config",

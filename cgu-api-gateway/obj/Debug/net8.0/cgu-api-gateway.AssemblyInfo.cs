@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cgu-api-gateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f766190f926f45ad85242fc1c5b2ac40784fe3")]
 [assembly: System.Reflection.AssemblyProductAttribute("cgu-api-gateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cgu-api-gateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
